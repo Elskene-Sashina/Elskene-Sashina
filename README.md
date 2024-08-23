@@ -3,7 +3,7 @@
 - I have 2 cats 😺
   
  Now I'm taking the first steps in programming 🖱
-  So... here I post simple start-level codes ⏳
+  So... here I post start-level codes ⏳
 
 - I am interested in bioinformatics and machine learning in biology ( also i like astronomy... or NASA pic of space 🌌 )
 - 🌱 I am currently learning Python, R and Linux
