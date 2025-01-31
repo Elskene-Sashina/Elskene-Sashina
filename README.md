@@ -1,12 +1,17 @@
-- Hi, I'm Irina 👩‍🔬
-- 🎓 I graduated from the First Moscow Medical University at the Faculty of Pharmacy 💊
-- I have 2 cats 😺
-  
- Now I'm taking the first steps in programming 🖱
-  So... here I post start-level codes ⏳
+# 👋  Hi, I'm Irina 👩‍🔬
 
-- I am interested in bioinformatics and machine learning in biology ( also i like astronomy... or NASA pic of space 🌌 )
-- 🌱 I am currently learning Python, R and Linux
+## 🔍 **About Me**
+- 🎓 I graduated from the First Moscow Medical University at the Faculty of Pharmacy 💊
+- 😺 I have 2 cats 
+- 🎯 Interests: bioinformatics, ML, molecular and evolutionary biology
+
+## 🛠 **Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
+
 
 
 <!---
