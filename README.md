@@ -3,7 +3,9 @@
 ## 👩‍🔬 **About Me**
 - 🎓 I graduated from the First Moscow Medical University at the Faculty of Pharmacy 💊
 - 😺 I have 2 cats 
-- 🎯 My interests:    bioinformatics,    ML,     molecular and evolutionary biology
+- 🎯 My interests: **Bioinformatics, Machine Learning, Molecular and Evolutionary Biology**
+
+---
 
 ## 🔍 **Languages**
 <p align="left">
@@ -12,6 +14,15 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
+---
+
+## ✨ **NAVIGATION IN PROJECTS**✨
+I have completed several courses and built projects based on them. Here are some highlights:
+
+- **Python for Data Analysis in Science** ➡️ [View Projects](#)
+- **NGS Data Analysis (Bash)** ➡️ [View Project](#)
+- **Statistics, R, and Data Analysis** ➡️ [View Project](#)
+- **Machine Learning in Python** ➡️ [View Project](#)
 
 
 <!---
