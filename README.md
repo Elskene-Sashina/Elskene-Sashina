@@ -16,7 +16,7 @@
 
 ---
 
-## ✨ **NAVIGATION IN PROJECTS**✨
+## ✨ **PROJECTS NAVIGATION **✨
 I have completed several courses and built projects based on them. Here are some highlights:
 
 - **Python for Data Analysis in Science** (Beginner / Easy level) ➡️  
