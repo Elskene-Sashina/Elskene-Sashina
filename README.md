@@ -19,12 +19,26 @@
 ## ✨ **NAVIGATION IN PROJECTS**✨
 I have completed several courses and built projects based on them. Here are some highlights:
 
-- **Python for Data Analysis in Science** ➡️ [View Projects](#)
-- **NGS Data Analysis (Bash)** ➡️ [View Project](#)
-- **Statistics, R, and Data Analysis** ➡️ [View Project](#)
-- **Machine Learning in Python** ➡️ [View Project](#)
+- **Python for Data Analysis in Science** (Beginner / Easy level) ➡️  
+  1) 🧬 **DNA to Protein Translator**  
+     [View Project](https://github.com/Elskene-Sashina/Course---Python-for-Data-analysis-in-Science.-Project-1)  
+  2) 🔬 **Make Matrix of Genetic Distances**  
+     [View Project](https://github.com/Elskene-Sashina/Course---Python-for-Data-analysis-in-Science.-Project-2)  
+  3) 🔍 **Motif Finder in DNA Sequences**  
+     [View Project](https://github.com/Elskene-Sashina/Course---Python-for-Data-analysis-in-Science.-Project-3)
 
+- **NGS Data Analysis (Bash)** (Intermediate level) ➡️  
+  🦠 **SARS-Covid Genomic Analysis Pipeline**  
+  [View Project](https://github.com/Elskene-Sashina/NGS_covid)
 
+- **Statistics, R, and Data Analysis** (Advanced level) ➡️  
+  👩‍⚕️ **Adenoma Analysis Project**  
+  [View Project](https://github.com/Elskene-Sashina/Adenoma-dataset)
+
+- **Machine Learning in Python** (Advanced level) ➡️  
+  🧬 **ML Single Cell Classification Project**  
+  [View Project](https://github.com/Elskene-Sashina/ML-Single-Cell-Classification)
+  
 <!---
 Irina-Sashina/Irina-Sashina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
