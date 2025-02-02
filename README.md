@@ -31,11 +31,11 @@ I have completed several courses and built projects based on them. Here are some
   🦠 **SARS-Covid Genomic Analysis Pipeline**  
   [View Project](https://github.com/Elskene-Sashina/NGS_covid)
 
-- **Statistics, R, and Data Analysis** (Advanced level) ➡️  
+- **Statistics, R, and Data Analysis** (Intermediate level) ➡️  
   👩‍⚕️ **Adenoma Analysis Project**  
   [View Project](https://github.com/Elskene-Sashina/Adenoma-dataset)
 
-- **Machine Learning in Python** (Advanced level) ➡️  
+- **Machine Learning in Python** (Intermediate level) ➡️  
   🧬 **ML Single Cell Classification Project**  
   [View Project](https://github.com/Elskene-Sashina/ML-Single-Cell-Classification)
   
