@@ -18,10 +18,10 @@
 
 ---
 
-## ✨ **PROJECTS NAVIGATION **✨
+## ✨ PROJECTS NAVIGATION ✨
 I have completed several courses and built projects based on them. Here are some highlights:
 
-- **Python for Data Analysis in Science** (Beginner / Easy level) ➡️  
+- **Python for Data Analysis in Science** ➡️  
   1) 🧬 **DNA to Protein Translator**  
      [View Project](https://github.com/Elskene-Sashina/Course---Python-for-Data-analysis-in-Science.-Project-1)  
   2) 🔬 **Make Matrix of Genetic Distances**  
@@ -29,17 +29,21 @@ I have completed several courses and built projects based on them. Here are some
   3) 🔍 **Motif Finder in DNA Sequences**  
      [View Project](https://github.com/Elskene-Sashina/Course---Python-for-Data-analysis-in-Science.-Project-3)
 
-- **NGS Data Analysis (Bash)** (Intermediate level) ➡️  
+- **NGS Data Analysis (Bash)**  ➡️  
   🦠 **SARS-Covid Genomic Analysis Pipeline**  
   [View Project](https://github.com/Elskene-Sashina/NGS_covid)
 
-- **Statistics, R, and Data Analysis** (Intermediate level) ➡️  
+- **Statistics, R, and Data Analysis**  ➡️  
   👩‍⚕️ **Adenoma Analysis Project**  
   [View Project](https://github.com/Elskene-Sashina/Adenoma-dataset)
 
-- **Machine Learning in Python** (Intermediate level) ➡️  
+- **Machine Learning in Python**  ➡️  
   🧬 **ML Single Cell Classification Project**  
   [View Project](https://github.com/Elskene-Sashina/ML-Single-Cell-Classification)
+
+ - **🧬 Эволюция многоклеточности и дифференциации у Volvox carteri** (Intermediate level) ➡️  
+   **Пилотный Анализ**  
+  [View Project]([https://github.com/Elskene-Sashina/ML-Single-Cell-Classification](https://github.com/Elskene-Sashina/Volvox_Chamy_bioinformatic_analysis))
   
 <!---
 Irina-Sashina/Irina-Sashina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
