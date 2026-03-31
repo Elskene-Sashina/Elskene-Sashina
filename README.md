@@ -43,7 +43,7 @@ I have completed several courses and built projects based on them. Here are some
 
  - **🧬 Эволюция многоклеточности и дифференциации у Volvox carteri** (Intermediate level) ➡️  
    **Пилотный Анализ**  
-  [View Project]([https://github.com/Elskene-Sashina/ML-Single-Cell-Classification](https://github.com/Elskene-Sashina/Volvox_Chamy_bioinformatic_analysis))
+  [View Project](https://github.com/Elskene-Sashina/Volvox_Chamy_bioinformatic_analysis)
   
 <!---
 Irina-Sashina/Irina-Sashina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
