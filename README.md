@@ -41,7 +41,7 @@ I have completed several courses and built projects based on them. Here are some
   🧬 **ML Single Cell Classification Project**  
   [View Project](https://github.com/Elskene-Sashina/ML-Single-Cell-Classification)
 
- - **🧬 Эволюция многоклеточности и дифференциации у Volvox carteri** (Intermediate level) ➡️  
+ - **🧬 Эволюция многоклеточности и дифференциации у Volvox carteri**  ➡️  
    **Пилотный Анализ**  
   [View Project](https://github.com/Elskene-Sashina/Volvox_Chamy_bioinformatic_analysis)
   
