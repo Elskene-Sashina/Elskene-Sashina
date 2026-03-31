@@ -3,7 +3,7 @@
 ## 👩‍🔬 **About Me**
 - 🎓 I graduated from the First Moscow Medical University at the Faculty of Pharmacy 💊
 - 😺 I have 2 cats 
-- 🎯 My interests: **Bioinformatics, Machine Learning, Molecular and Evolutionary Biology**
+- 🎯 My interests: **Bioinformatics, Molecular and Evolutionary Biology**
 
 ---
 
